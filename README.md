@@ -75,3 +75,7 @@ Im SmartFritz-Projekt sind diese Änderungen bereits enhalten. HTTPS-Verbindunge
 
 ![screenshot](images/Infos.jpg)
 ![screenshot](images/Messages.jpg)
+
+**So sieht die Demo-App unter Linux aus:**
+![screenshot](images/SmartFritzLinux.png)
+
