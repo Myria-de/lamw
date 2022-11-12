@@ -43,7 +43,7 @@ Es sind daher keine weiteren Masßnahmen erforderlich.
 
 **HTTP-Verbindungen und Passwörter**
 
-Bei einer HTTP-Verbindung (http://192.168.178.1) möchte Android das Passwort nicht im Klartext über das Neztzwerk senden.
+Bei einer HTTP-Verbindung (http://192.168.178.1) möchte Android das Passwort nicht im Klartext über das Netzwerk senden.
 Damit das möglich ist, erstellen Sie bei einer App im Ordner "res/xml" die Datei "network_security_config.xml" mit diesem Inhalt:
 
 ```xml
