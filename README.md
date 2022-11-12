@@ -28,6 +28,8 @@ SmartFritzSchalter -s 12345 6789000 -c on
 
 schaltet den Schalter mit der AIN 12345 6789000 an. Weitere Optionen für "-c" sind "off" und "toggle" (umschalten).
 
+Die komplilierte Datei für Windows gibt es unter "Releases".
+
 **Benötigte Software**
 
 Fpcupdeluxe (Lazarus/FPC installieren): https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases
