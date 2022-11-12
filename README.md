@@ -20,6 +20,14 @@ Die Android-Beispiel-App erläutert die folgenden Aufgaben:
 
 SmartFritzSchalter eignet sich für Linux oder Windows. Es enthält im Wesentlichen den gleichen Quellcode wie die Android-App, was die Programmlogik betrifft. Es empfiehlt sich, immer zuerst für Linux zu programmieren, soweit das die gewünschten Funktionen zulassen. Ein Linux-Projekt lässt sich debuggen, was bei der Android-App nur sehr eingeschränkt möglich ist.
 
+Das Programm SmartFritzSchalter lässt sich auch über die Kommandozeile steuern. 
+
+```
+SmartFritzSchalter -s 12345 6789000 -c on
+```
+
+schaltet den Schalter mit der AIN 12345 6789000 an. Weitere Optionen für "-c" sind "off" und "toggle" (umschalten).
+
 **Benötigte Software**
 
 Fpcupdeluxe (Lazarus/FPC installieren): https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases
