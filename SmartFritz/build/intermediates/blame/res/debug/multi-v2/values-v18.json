@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/te/.gradle/caches/transforms-2/files-2.1/5e4ca4495ddc43e9cf5dac638c7f2f37/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

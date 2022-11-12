@@ -1,0 +1,3 @@
+<Libraries Value="/home/te/Android/Sdk/ndk/21.2.6472646/platforms/android-22/arch-arm/usr/lib;/home/te/Android/Sdk/ndk/21.2.6472646/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x"/>
+<TargetCPU Value="arm"/>
+<CustomOptions Value="-Xd -CfSoft -CpARMV7A -XParm-linux-androideabi- -FD/home/te/Android/Sdk/ndk/21.2.6472646/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin"/>

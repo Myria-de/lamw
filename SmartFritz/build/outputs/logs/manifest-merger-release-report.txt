@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8c92b55adb8341e35b719fe17df16fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8931d7571f82ea1d7649a76cac1609ae/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/5e4ca4495ddc43e9cf5dac638c7f2f37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a8550394d6ff393c2781e4917faa02bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9aa7e09576dc7293e1aad5f17168b77a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a86373ff37a5a4a6c09b1ae4d9e825ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9975bdc23e98f5f26e55f3189c30f00c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/1604b805148f13b78a814cf66a05f588/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8b5aff4eb00865d9da57eaca88981bea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a1a275a4cb109540961532c18470a554/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/7629a0a8372906ad248d03095b7f95ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/4ffb752cdf66fc470b29b37942163402/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/04de6cd85148c430017c174a44fe710d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/638297909d3b0f31c8ca927662e8d1f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/88627de7ec5d8832b22b4a45185bed05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/d5f7dc95e606194d6fb552505c61b9b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a061a0468ed3e0262fce2a9cd08d510f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/38be9480183dde1737174f807ee4a52f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8565e0b68a41c75801d83e008f17bd7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/615e9fb7a82d8542a52fdaa3890041e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/49867a109f8523f7efbd20f00c530c17/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/48fe2e8726751bcaf4c6eaea1d368035/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9f12371c6833924286cf2b109992197c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/67bccf30c044331acd5f5b4fd439c9a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a2921dc0c090aead2f4201426992b15e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/2346148919a4599d5de0fa6179559ba0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8264e839094de35b581673dbf6b7c114/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a0af62e51c41d11cb0393ea3ad9146c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/be77064e7810ade67c6fea621b8fe699/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/cd0ae71cee8dc22af1837e36eee455b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/e53ffa83aebc692eb03fd22899ba1e8c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/87e5d2c6b1fb8019caf23177220d47f0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:70-101
+	android:versionName
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:126-151
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:2:102-125
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+uses-sdk
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:3-71
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:3-71
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:3-71
+MERGED from [com.android.support:support-v4:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8c92b55adb8341e35b719fe17df16fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8c92b55adb8341e35b719fe17df16fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8931d7571f82ea1d7649a76cac1609ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8931d7571f82ea1d7649a76cac1609ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/5e4ca4495ddc43e9cf5dac638c7f2f37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/5e4ca4495ddc43e9cf5dac638c7f2f37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a8550394d6ff393c2781e4917faa02bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a8550394d6ff393c2781e4917faa02bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9aa7e09576dc7293e1aad5f17168b77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9aa7e09576dc7293e1aad5f17168b77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a86373ff37a5a4a6c09b1ae4d9e825ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a86373ff37a5a4a6c09b1ae4d9e825ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9975bdc23e98f5f26e55f3189c30f00c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9975bdc23e98f5f26e55f3189c30f00c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/1604b805148f13b78a814cf66a05f588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/1604b805148f13b78a814cf66a05f588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8b5aff4eb00865d9da57eaca88981bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8b5aff4eb00865d9da57eaca88981bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a1a275a4cb109540961532c18470a554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a1a275a4cb109540961532c18470a554/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/7629a0a8372906ad248d03095b7f95ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/7629a0a8372906ad248d03095b7f95ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/4ffb752cdf66fc470b29b37942163402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/4ffb752cdf66fc470b29b37942163402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/04de6cd85148c430017c174a44fe710d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/04de6cd85148c430017c174a44fe710d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/638297909d3b0f31c8ca927662e8d1f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/638297909d3b0f31c8ca927662e8d1f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/88627de7ec5d8832b22b4a45185bed05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/88627de7ec5d8832b22b4a45185bed05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/d5f7dc95e606194d6fb552505c61b9b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/d5f7dc95e606194d6fb552505c61b9b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a061a0468ed3e0262fce2a9cd08d510f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a061a0468ed3e0262fce2a9cd08d510f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/38be9480183dde1737174f807ee4a52f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/38be9480183dde1737174f807ee4a52f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8565e0b68a41c75801d83e008f17bd7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8565e0b68a41c75801d83e008f17bd7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/615e9fb7a82d8542a52fdaa3890041e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/615e9fb7a82d8542a52fdaa3890041e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/49867a109f8523f7efbd20f00c530c17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/49867a109f8523f7efbd20f00c530c17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/48fe2e8726751bcaf4c6eaea1d368035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/48fe2e8726751bcaf4c6eaea1d368035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9f12371c6833924286cf2b109992197c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/9f12371c6833924286cf2b109992197c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/67bccf30c044331acd5f5b4fd439c9a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/67bccf30c044331acd5f5b4fd439c9a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a2921dc0c090aead2f4201426992b15e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a2921dc0c090aead2f4201426992b15e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/2346148919a4599d5de0fa6179559ba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/2346148919a4599d5de0fa6179559ba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8264e839094de35b581673dbf6b7c114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8264e839094de35b581673dbf6b7c114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a0af62e51c41d11cb0393ea3ad9146c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/a0af62e51c41d11cb0393ea3ad9146c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/be77064e7810ade67c6fea621b8fe699/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/be77064e7810ade67c6fea621b8fe699/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/cd0ae71cee8dc22af1837e36eee455b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/cd0ae71cee8dc22af1837e36eee455b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/e53ffa83aebc692eb03fd22899ba1e8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/e53ffa83aebc692eb03fd22899ba1e8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/87e5d2c6b1fb8019caf23177220d47f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/te/.gradle/caches/transforms-2/files-2.1/87e5d2c6b1fb8019caf23177220d47f0/AndroidManifest.xml:20:5-44
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:3-71
+INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:3-71
+	android:targetSdkVersion
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:40-69
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:3:13-39
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+		INJECTED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_BLUETOOTH_SHARE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:4:3-78
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:4:20-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:5:3-78
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:5:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:6:3-76
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:6:20-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:7:3-76
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:7:20-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:8:3-73
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:8:20-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:9:3-65
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:9:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:10:3-71
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:10:20-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:11:3-66
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:11:20-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:12:3-62
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:12:20-60
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:13:3-76
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:13:20-74
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:14:3-73
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:14:20-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:15:3-64
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:15:20-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:16:3-77
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:16:20-75
+uses-permission#android.permission.NFC
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:17:3-59
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:17:20-57
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:18:3-78
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:18:20-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:19:3-69
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:19:20-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:20:3-77
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:20:20-75
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:21:3-71
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:21:20-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:22:3-72
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:22:20-70
+uses-permission#android.permission.READ_SMS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:23:3-64
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:23:20-62
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:24:3-67
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:24:20-65
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:25:3-64
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:25:20-62
+uses-permission#android.permission.VIBRATE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:26:3-63
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:26:20-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:27:3-65
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:27:20-63
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:28:3-70
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:28:20-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:29:3-78
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:29:20-76
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:30:3-72
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:30:20-70
+uses-feature#android.hardware.camera
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:31:3-82
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:31:56-80
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:31:17-55
+uses-feature#android.hardware.camera.flash
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:32:3-88
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:32:62-86
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:32:17-61
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:33:3-92
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:33:66-90
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:33:17-65
+uses-feature#0x00020000
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:34:3-75
+	android:glEsVersion
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:34:17-49
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:34:50-73
+uses-feature#android.hardware.telephony
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:35:3-85
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:35:59-83
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:35:17-58
+uses-feature#android.hardware.sensor.stepcounter
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:36:3-94
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:36:68-92
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:36:17-67
+uses-feature#android.hardware.sensor.stepdetector
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:37:3-95
+	android:required
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:37:69-93
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:37:17-68
+supports-screens
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:38:3-133
+	android:largeScreens
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:38:78-105
+	android:smallScreens
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:38:21-48
+	android:normalScreens
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:38:49-77
+	android:anyDensity
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:38:106-131
+application
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:39:3-46:17
+MERGED from [com.android.support:design:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8931d7571f82ea1d7649a76cac1609ae/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/8931d7571f82ea1d7649a76cac1609ae/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/49867a109f8523f7efbd20f00c530c17/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/49867a109f8523f7efbd20f00c530c17/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/48fe2e8726751bcaf4c6eaea1d368035/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/48fe2e8726751bcaf4c6eaea1d368035/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/te/.gradle/caches/transforms-2/files-2.1/49867a109f8523f7efbd20f00c530c17/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:39:80-112
+	android:icon
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:39:43-79
+	android:allowBackup
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:39:16-42
+	android:theme
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:39:113-144
+	android:networkSecurityConfig
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:39:145-205
+activity#org.muctec.smartfritz.App
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:40:5-45:16
+	android:enabled
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:40:204-226
+	android:label
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:40:56-88
+	android:launchMode
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:40:174-203
+	android:configChanges
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:40:89-173
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:40:15-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:41:7-44:23
+action#android.intent.action.MAIN
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:42:9-60
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:42:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:43:9-68
+	android:name
+		ADDED from /home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/AndroidManifest.xml:43:19-66

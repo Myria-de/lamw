@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <LRSInOutputDirectory Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="controls"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <CustomData Count="9">
+      <Item0 Name="BuildSystem" Value="Gradle"/>
+      <Item1 Name="LAMW" Value="GUI"/>
+      <Item2 Name="NdkApi" Value="android-22"/>
+      <Item3 Name="NdkPath" Value="/home/te/Android/Sdk/ndk/21.2.6472646/"/>
+      <Item4 Name="Package" Value="org.lamw.helloworld"/>
+      <Item5 Name="SdkPath" Value="/home/te/Android/Sdk/"/>
+      <Item6 Name="StartModule" Value="AndroidModule1"/>
+      <Item7 Name="Support" Value="TRUE"/>
+      <Item8 Name="Theme" Value="DeviceDefault"/>
+    </CustomData>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <RequiredPackages>
+      <Item>
+        <PackageName Value="tfpandroidbridge_pack"/>
+      </Item>
+    </RequiredPackages>
+    <Units>
+      <Unit>
+        <Filename Value="controls.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule1"/>
+        <CustomData Count="1">
+          <Item0 Name="jControls" Value="jForm"/>
+        </CustomData>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <Target>
+      <Filename Value="../libs/armeabi-v7a/libcontrols"/>
+    </Target>
+    <SearchPaths>
+      <Libraries Value="/home/te/Android/Sdk/ndk/21.2.6472646/platforms/android-22/arch-arm/usr/lib/;/home/te/Android/Sdk/ndk/21.2.6472646/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/"/>
+      <UnitOutputDirectory Value="../obj/controls"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <SyntaxMode Value="delphi"/>
+        <CStyleMacros Value="True"/>
+      </SyntaxOptions>
+    </Parsing>
+    <CodeGeneration>
+      <SmartLinkUnit Value="True"/>
+      <TargetCPU Value="arm"/>
+      <TargetOS Value="android"/>
+      <Optimizations>
+        <OptimizationLevel Value="3"/>
+      </Optimizations>
+      <SmallerCode Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+    </Linking>
+    <Other>
+      <CustomOptions Value="-Xd -CfVFPV3 -CpARMV7A -XParm-linux-androideabi- -FD/home/te/Android/Sdk/ndk/21.2.6472646/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

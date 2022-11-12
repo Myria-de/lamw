@@ -1,0 +1,4 @@
+#Fri Jul 17 03:06:39 CEST 2020
+base.0=/home/te/fpcupdeluxe/projects/LAMWProjects/SmartFritz/build/intermediates/dex/release/mergeDexRelease/out
+renamed.0=classes.dex
+path.0=classes.dex
